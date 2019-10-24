@@ -150,7 +150,7 @@ ThinkPHP[开发者周刊](https://www.kancloud.cn/thinkphp/weekly/content)旨在
 * 代码生成器:[https://github.com/zhuanqianfish/ThinkphpHelper](https://github.com/zhuanqianfish/ThinkphpHelper)
 * 钉钉机器人扩展:[https://github.com/hbh112233abc/ding-bot](https://github.com/hbh112233abc/ding-bot)
 * 阿里云短信发送扩展:[https://github.com/hbh112233abc/ali-sms](https://github.com/hbh112233abc/ali-sms)
-* 短地址扩展:[https://github.com/hbh112233abc/short-url](https://github.com/hbh112233abc/short-url
+* 短地址扩展:[https://github.com/hbh112233abc/short-url](https://github.com/hbh112233abc/short-url)
 
 ## 产品/服务/网站
 
