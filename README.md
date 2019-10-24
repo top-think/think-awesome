@@ -2,9 +2,9 @@
 
 awesome for thinkphp5+
 
-> 迎提交自己的基于ThinkPHP5.0/5.1/6.0版本开发的产品、扩展或者网站！由于版本历史和生态问题，暂不收录5.0之前的版本资源，请提交Issue
+> 欢迎提交自己的基于ThinkPHP5.0/5.1/6.0版本开发的产品、扩展或者网站！由于版本历史和生态问题，暂不收录5.0之前的版本资源，请提交Issue
 
-本文总结整理了`ThinkPHP`相关的资源，帮助开发者更好的学习和掌握`ThinkPHP5+`。
+本文总结整理了`ThinkPHP`相关的资源，帮助开发者更好的学习和掌握`ThinkPHP5+`。 看云在线阅读地址：
 
 ## 官网 http://thinkphp.cn
 
@@ -143,18 +143,38 @@ ThinkPHP[开发者周刊](https://www.kancloud.cn/thinkphp/weekly/content)旨在
   
 ## 第三方扩展（陆续整理）
 
-* 二维码生成类库:[https://github.com/endroid/qr-code](https://github.com/endroid/qr-code)  
-* xml类库:[https://github.com/servo-php/fluidxml](https://github.com/servo-php/fluidxm%3Cx%3El)  
-* 微信php-SDK:[https://github.com/overtrue/wechat](https://github.com/overtrue/wechat)  
-* 支付宝php-SDK:[https://github.com/wi1dcard/alipay-sdk-php](https://github.com/wi1dcard/alipay-sdk-php)  
-* 省市区(县)街道四级联动扩展:[https://github.com/yupoxiong/region](https://github.com/yupoxiong/region)  
+### 权限控制
+
+* PHP-Casbin：[https://github.com/php-casbin/php-casbin](https://github.com/php-casbin/php-casbin)
+* Think-authz:[https://github.com/php-casbin/think-authz](https://github.com/php-casbin/think-authz)
 * 访问控制库(Casbin)扩展:[https://github.com/php-casbin/think-casbin](https://github.com/php-casbin/think-casbin)  
 * 权限认证:[https://github.com/zouxiang0639/thinkcms-auth](https://github.com/zouxiang0639/thinkcms-auth)  
+
+### 算法
+
+* 用PHP负载均衡调度算法 [https://github.com/Tinywan/load-balancing](https://github.com/Tinywan/load-balancing)
+
+### 支付
+
+* 支付宝php-SDK:[https://github.com/wi1dcard/alipay-sdk-php](https://github.com/wi1dcard/alipay-sdk-php)  
+
+### 短信
+
+* 阿里云短信发送扩展:[https://github.com/hbh112233abc/ali-sms](https://github.com/hbh112233abc/ali-sms)
+
+### 微信
+
+* 微信php-SDK:[https://github.com/overtrue/wechat](https://github.com/overtrue/wechat)  
+
+### 其它
+
+* 二维码生成类库:[https://github.com/endroid/qr-code](https://github.com/endroid/qr-code)  
+* xml类库:[https://github.com/servo-php/fluidxml](https://github.com/servo-php/fluidxm%3Cx%3El)  
+* 省市区(县)街道四级联动扩展:[https://github.com/yupoxiong/region](https://github.com/yupoxiong/region)  
 * 代码生成器:[https://github.com/zhuanqianfish/ThinkphpHelper](https://github.com/zhuanqianfish/ThinkphpHelper)
 * 钉钉机器人扩展:[https://github.com/hbh112233abc/ding-bot](https://github.com/hbh112233abc/ding-bot)
-* 阿里云短信发送扩展:[https://github.com/hbh112233abc/ali-sms](https://github.com/hbh112233abc/ali-sms)
 * 短地址扩展:[https://github.com/hbh112233abc/short-url](https://github.com/hbh112233abc/short-url)
-* 用PHP负载均衡调度算法 [https://github.com/Tinywan/load-balancing](https://github.com/Tinywan/load-balancing)
+
 
 ## 产品/服务/网站
 
