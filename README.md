@@ -148,12 +148,15 @@ ThinkPHP[开发者周刊](https://www.kancloud.cn/thinkphp/weekly/content)旨在
 * 访问控制库(Casbin)扩展:[https://github.com/php-casbin/think-casbin](https://github.com/php-casbin/think-casbin)  
 * 权限认证:[https://github.com/zouxiang0639/thinkcms-auth](https://github.com/zouxiang0639/thinkcms-auth)  
 * 代码生成器:[https://github.com/zhuanqianfish/ThinkphpHelper](https://github.com/zhuanqianfish/ThinkphpHelper)
+* 用PHP实现几种负载均衡调度算法 <https://github.com/Tinywan/load-balancing> 
 
 ## 产品/服务/网站
 
 陆续整理中~
 
 [看云Kancloud](https://www.kancloud.cn)——基于Git和MD的文档在线写作和托管平台
+
+[Tinywan杂货摊](https://www.tinywan.com/) ——基于ThinkPHP5.1文档管理平台
 
 ## ThinkPHP安全守护者计划
 
