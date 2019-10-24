@@ -1,19 +1,20 @@
 # think-awesome
-awesome for thinkphp
 
-欢迎提交自己的基于ThinkPHP5.0/5.1/6.0版本开发的产品、扩展或者网站！提交PR
+awesome for thinkphp5+
 
-本文总结整理了`ThinkPHP`相关的资源，帮助开发者更好的学习和掌握`ThinkPHP5`。
+欢迎提交自己的基于ThinkPHP5.0/5.1/6.0版本开发的产品、扩展或者网站！由于版本历史和生态问题，暂不收录5.0之前的版本资源，请提交Issue
+
+本文总结整理了`ThinkPHP`相关的资源，帮助开发者更好的学习和掌握`ThinkPHP5+`。
 
 ## 官网 http://thinkphp.cn
 
-官网的历史比较悠久，主要作用为`ThinkPHP`的BUG反馈和建议，以及提问和交流，目前官网对移动端访问支持不好。
+官网的历史比较悠久，主要作用为`ThinkPHP`的BUG反馈和建议，以及提问和交流，目前官网对移动端访问支持不好。基于6.0的新版官网重构中~
 
 ## 版本库
 
-ThinkPHP`5+`版本全部使用`Git`进行代码版本管理，`5.1+`版本开始官方已经不再提供下载版本，`6.0+`版本开始必须使用composer安装，目前主要更新的版本库为`Github`，并同步更新到国内的码云。
+ThinkPHP`5.0+`版本全部使用`Git`进行代码版本管理，`5.1+`版本开始官方已经不再提供下载版本，`6.0+`版本开始必须使用`composer`安装，目前主要更新的版本库为`Github`，并同步更新到国内的码云。
 
-> 目前`5.0`/`5.1`/`6.0`版本的版本库地址是相同，只是采用了不同的分支。
+> 目前`5.0`/`5.1`/`6.0`版本的版本库地址是相同，只是采用了不同的分支，目前主分支是`6.0`。
 
 ### `Github`
 
@@ -27,7 +28,7 @@ ThinkPHP`5+`版本全部使用`Git`进行代码版本管理，`5.1+`版本开始
 
 ## BUG反馈和建议
 
-对于框架的BUG和建议，建议使用[`Issues`](https://github.com/top-think/framework/issues)功能，但不应该在`Issues`里面提问。也可以在官网的[BUG反馈](http://www.thinkphp.cn/bug/index.html)中提交。
+对于框架的BUG和建议，建议使用[`Issues`](https://github.com/top-think/framework/issues)功能，但不应该在`Issues`里面提问。
 
 欢迎有能力的开发者贡献和提交PR给我们，帮助我们更好的完善和改进，但并不是所有的PR官方都会合并。请首先注意是否通过CI检测并注意代码规范，然后官方团队会评估该PR是否适合合并。
 
@@ -76,9 +77,8 @@ ThinkPHP[开发者周刊](https://www.kancloud.cn/thinkphp/weekly/content)旨在
 * 6.0版本：https://www.kancloud.cn/manual/thinkphp6_0
 * 5.1版本：https://www.kancloud.cn/manual/thinkphp5_1
 * 5.0版本：https://www.kancloud.cn/manual/thinkphp5
-* 3.2版本：https://www.kancloud.cn/manual/thinkphp
 
-> 所有的手册对移动端访问支持良好。
+> 所有的手册对移动端访问支持良好，也可以使用看云阅读小程序直接阅读。
 
 ## API速查表
 
@@ -91,7 +91,7 @@ ThinkPHP[开发者周刊](https://www.kancloud.cn/thinkphp/weekly/content)旨在
 
 手册只是作为使用参考性质，不具备新手引导和教学作用。因此除了完全开发手册之外，官方还出品了一系列官方快速入门教程，作为完全开发手册的补充，这些都是对新手或者希望深入了解和学习框架细节的不可或缺，同时也是一种抛砖引玉，希望更多的第三方优秀教程涌现出来。
 
-官方教程需要付费阅读（都是不到一杯咖啡的费用），写作不易请支持正版，主要包括（1月15日~1月20日官方[限时五折优惠](https://www.kancloud.cn/activity/thinkphp_13th)）：
+官方教程需要付费阅读（都是不到一杯咖啡的费用），写作不易请支持正版，主要包括：
 
 * 《[ThinkPHP5快速入门](https://www.kancloud.cn/thinkphp/thinkphp5_quickstart)》
 * 《[ThinkPHP5路由完全指南](https://www.kancloud.cn/thinkphp/route-master)》
@@ -99,9 +99,9 @@ ThinkPHP[开发者周刊](https://www.kancloud.cn/thinkphp/weekly/content)旨在
 * 《[掌握ThinkPHP5.0数据库和模型](https://www.kancloud.cn/thinkphp/master-database-and-model)》
 * 《[笨办法学ThinkPHP5.1](https://www.kancloud.cn/thinkphp/thinkphp-the-hard-way)》
 
-这些入门系列教程，虽然是为ThinkPHP5.0而写，但很多思想和用法，在后续版本中仍然适用，能够帮你更快速的入门和掌握ThinkPHP的精髓。
+这些入门系列教程，虽然是为ThinkPHP5而写，但很多思想和用法，在后续版本中仍然适用，能够帮你更快速的入门和掌握ThinkPHP的精髓。
 
->[danger] 官方所有教程书籍都仅限[看云电子出版平台](https://www.kancloud.cn)发布，其它任何平台均为盗版和假冒。
+>[danger] 官方所有教程书籍都仅限[看云电子出版平台（官方旗下产品）](https://www.kancloud.cn)发布，其它任何平台均为盗版和假冒。
 
 
 ## 第三方教程（包含视频）
@@ -150,13 +150,15 @@ ThinkPHP[开发者周刊](https://www.kancloud.cn/thinkphp/weekly/content)旨在
 * 代码生成器:[https://github.com/zhuanqianfish/ThinkphpHelper](https://github.com/zhuanqianfish/ThinkphpHelper)
 * 钉钉机器人扩展:[https://github.com/hbh112233abc/ding-bot](https://github.com/hbh112233abc/ding-bot)
 * 阿里云短信发送扩展:[https://github.com/hbh112233abc/ali-sms](https://github.com/hbh112233abc/ali-sms)
-* 短地址扩展:[https://github.com/hbh112233abc/short-url](https://github.com/hbh112233abc/short-url
+* 短地址扩展:[https://github.com/hbh112233abc/short-url](https://github.com/hbh112233abc/short-url)
+* 用PHP负载均衡调度算法 [https://github.com/Tinywan/load-balancing](https://github.com/Tinywan/load-balancing)
 
 ## 产品/服务/网站
 
 陆续整理中~
 
-[看云Kancloud](https://www.kancloud.cn)——基于Git和MD的文档在线写作和托管平台
+* [看云Kancloud](https://www.kancloud.cn) —— 基于Git和MD的文档在线写作和托管平台
+* [Tinywan杂货摊](https://www.tinywan.com) —— 基于ThinkPHP5.1文档管理平台
 
 ## ThinkPHP安全守护者计划
 
