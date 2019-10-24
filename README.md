@@ -114,6 +114,8 @@ ThinkPHP[开发者周刊](https://www.kancloud.cn/thinkphp/weekly/content)旨在
 * 验证码:[https://github.com/top-think/think-captcha](https://github.com/top-think/think-captcha)  
 * 消息队列:[https://github.com/top-think/think-queue](https://github.com/top-think/think-queue)  
 * 计划任务:[https://github.com/yunwuxin/think-cron](https://github.com/yunwuxin/think-cron)  
+* 页面Trace:[https://github.com/top-think/think-trace](https://github.com/top-think/think-trace)  
+* DebugBar:[https://github.com/top-think/think-debugbar](https://github.com/top-think/think-debugbar)  
 * MongoDb扩展:[https://github.com/top-think/think-mongo](https://github.com/top-think/think-mongo)  
 * angular模板引擎扩展:[https://github.com/top-think/think-angular](https://github.com/top-think/think-angular)  
 * thinkphp模板引擎扩展:[https://github.com/top-think/think-template](https://github.com/top-think/think-template)  
@@ -137,6 +139,7 @@ ThinkPHP[开发者周刊](https://www.kancloud.cn/thinkphp/weekly/content)旨在
 * 消息通知扩展:[https://github.com/yunwuxin/think-notification](https://github.com/yunwuxin/think-notification)  
 * 自动生成模型注释:[https://github.com/yunwuxin/think-model-helper](https://github.com/yunwuxin/think-model-helper)  
 * 社会化登录组件:[https://github.com/yunwuxin/think-social](https://github.com/yunwuxin/think-social)  
+* ThinkPHP6注解扩展:[https://github.com/top-think/think-annotation](https://github.com/top-think/think-annotation)  
   
 ## 第三方扩展（陆续整理）
 
