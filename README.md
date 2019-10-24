@@ -1,11 +1,8 @@
-# think-awesome
-
-awesome for thinkphp5+
+# think-awesome ThinkPHP5+ 资源整理
 
 > 欢迎提交自己的基于ThinkPHP5.0/5.1/6.0版本开发的产品、扩展或者网站！由于版本历史和生态问题，暂不收录5.0之前的版本资源，请提交Issue
 
-本文总结整理了`ThinkPHP`相关的资源，帮助开发者更好的学习和掌握`ThinkPHP5+`。 
-看云在线阅读地址：<https://blog.thinkphp.cn/913360>
+本文总结整理了`ThinkPHP`相关的资源，帮助开发者更好的学习和掌握`ThinkPHP5+`。 [看云在线阅读](https://blog.thinkphp.cn/913360)
 
 ## 官网 http://thinkphp.cn
 
@@ -182,7 +179,7 @@ ThinkPHP[开发者周刊](https://www.kancloud.cn/thinkphp/weekly/content)旨在
 陆续整理中~
 
 * [看云Kancloud](https://www.kancloud.cn) —— 基于Git和MD的文档在线写作和托管平台
-* [Tinywan杂货摊](https://www.tinywan.com) —— 基于ThinkPHP5.1文档管理平台
+* [Tinywan杂货摊](https://www.tinywan.com) —— 基于ThinkPHP5.1的文档管理平台
 
 ## ThinkPHP安全守护者计划
 
