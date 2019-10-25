@@ -179,6 +179,7 @@ ThinkPHP[开发者周刊](https://www.kancloud.cn/thinkphp/weekly/content)旨在
 * 代码生成器 —— [https://github.com/zhuanqianfish/ThinkphpHelper](https://github.com/zhuanqianfish/ThinkphpHelper)
 * 钉钉机器人扩展 —— [https://github.com/hbh112233abc/ding-bot](https://github.com/hbh112233abc/ding-bot)
 * 短地址扩展 —— [https://github.com/hbh112233abc/short-url](https://github.com/hbh112233abc/short-url)
+* 中文转拼音扩展 —— [https://github.com/xiaodit/think-pinyin](https://github.com/xiaodit/think-pinyin)
 
 
 ## 产品/服务/网站
