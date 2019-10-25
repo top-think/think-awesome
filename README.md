@@ -150,6 +150,11 @@ ThinkPHP[开发者周刊](https://www.kancloud.cn/thinkphp/weekly/content)旨在
 * 访问控制库(Casbin)扩展 —— [https://github.com/php-casbin/think-casbin](https://github.com/php-casbin/think-casbin)  
 * 权限认证 —— [https://github.com/zouxiang0639/thinkcms-auth](https://github.com/zouxiang0639/thinkcms-auth)  
 
+### 数据库
+
+* migration-generator —— [https://github.com/yanwenwu/migration-generator](https://github.com/yanwenwu/migration-generator)
+* SQL语句优化扩展 —— [https://github.com/guanguans/think-soar](https://github.com/guanguans/think-soar)
+
 ### 算法
 
 * 用PHP负载均衡调度算法 —— [https://github.com/Tinywan/load-balancing](https://github.com/Tinywan/load-balancing)
@@ -174,7 +179,7 @@ ThinkPHP[开发者周刊](https://www.kancloud.cn/thinkphp/weekly/content)旨在
 * 代码生成器 —— [https://github.com/zhuanqianfish/ThinkphpHelper](https://github.com/zhuanqianfish/ThinkphpHelper)
 * 钉钉机器人扩展 —— [https://github.com/hbh112233abc/ding-bot](https://github.com/hbh112233abc/ding-bot)
 * 短地址扩展 —— [https://github.com/hbh112233abc/short-url](https://github.com/hbh112233abc/short-url)
-* SQL语句优化扩展 —— [https://github.com/guanguans/think-soar](https://github.com/guanguans/think-soar)
+
 
 ## 产品/服务/网站
 
