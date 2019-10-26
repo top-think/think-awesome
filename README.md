@@ -2,7 +2,7 @@
 
 > 欢迎提交自己的基于ThinkPHP5.0/5.1/6.0版本开发的产品、扩展或者网站！由于版本历史和生态问题，暂不收录5.0之前的版本资源，请提交[`Issue`](https://github.com/top-think/think-awesome/issues)或者PR。
 
-本文总结整理了`ThinkPHP`相关的资源，帮助开发者更好的学习和掌握`ThinkPHP5+`。 [看云在线阅读](https://blog.thinkphp.cn/913360)
+本文总结整理了`ThinkPHP`相关的资源，帮助开发者更好的学习和掌握`ThinkPHP5+`。 [看云在线阅读版本](https://blog.thinkphp.cn/913360)
 
 ## 官网 http://thinkphp.cn
 
@@ -16,13 +16,13 @@ ThinkPHP`5.0+`版本全部使用`Git`进行代码版本管理，`5.1+`版本开�
 
 ### `Github`
 
-应用仓库：https://github.com/top-think/think
-核心框架：https://github.com/top-think/framework
+* 应用仓库：https://github.com/top-think/think
+* 核心框架：https://github.com/top-think/framework
 
 ### `Gitee`
 
-应用仓库：https://gitee.com/liu21st/thinkphp5
-核心框架：https://gitee.com/liu21st/framework
+* 应用仓库：https://gitee.com/liu21st/thinkphp5
+* 核心框架：https://gitee.com/liu21st/framework
 
 ## BUG反馈和建议
 
@@ -78,12 +78,14 @@ ThinkPHP[开发者周刊](https://www.kancloud.cn/thinkphp/weekly/content)旨在
 
 > 所有的手册对移动端访问支持良好，也可以使用看云阅读小程序直接阅读。
 
+![](https://box.kancloud.cn/683ccf2d45b7682caa7f6ff65e2908ea)
+
 ## API速查表
 
 速查表由官方团队成员维护，可能不一定及时同步更新，源码是最好的API手册。
 
-5.0速查表：https://yangweijie.github.io/thinkphp-lts/index.html
-5.1速查表：https://yangweijie.github.io/thinkphp-lts/index_tp5_1.html
+* 5.0速查表：https://yangweijie.github.io/thinkphp-lts/index.html
+* 5.1速查表：https://yangweijie.github.io/thinkphp-lts/index_tp5_1.html
 
 ## 官方教程
 
@@ -140,7 +142,8 @@ ThinkPHP[开发者周刊](https://www.kancloud.cn/thinkphp/weekly/content)旨在
 | 自动生成模型注释|[https://github.com/yunwuxin/think-model-helper](https://github.com/yunwuxin/think-model-helper)  |
 | 社会化登录组件|[https://github.com/yunwuxin/think-social](https://github.com/yunwuxin/think-social)  |
 | ThinkPHP6注解扩展|[https://github.com/top-think/think-annotation](https://github.com/top-think/think-annotation)  |
-  
+| 访问频率限制|[https://github.com/top-think/think-throttle](https://github.com/top-think/think-throttle)|
+
 ## 第三方扩展（陆续整理）
 
 ### 权限控制
@@ -182,9 +185,7 @@ ThinkPHP[开发者周刊](https://www.kancloud.cn/thinkphp/weekly/content)旨在
 * 中文转拼音扩展 —— [https://github.com/xiaodit/think-pinyin](https://github.com/xiaodit/think-pinyin)
 
 
-## 产品/服务/网站
-
-陆续整理中~
+## 产品/服务/网站（陆续整理）
 
 * [看云Kancloud](https://www.kancloud.cn) —— 基于Git和MD的文档在线写作和托管平台
 * [Tinywan杂货摊](https://www.tinywan.com) —— 基于ThinkPHP5.1的文档管理平台
