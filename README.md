@@ -151,7 +151,8 @@ ThinkPHP[开发者周刊](https://www.kancloud.cn/thinkphp/weekly/content)旨在
 * PHP-Casbin —— [https://github.com/php-casbin/php-casbin](https://github.com/php-casbin/php-casbin)
 * Think-authz —— [https://github.com/php-casbin/think-authz](https://github.com/php-casbin/think-authz)
 * 访问控制库(Casbin)扩展 —— [https://github.com/php-casbin/think-casbin](https://github.com/php-casbin/think-casbin)  
-* 权限认证 —— [https://github.com/zouxiang0639/thinkcms-auth](https://github.com/zouxiang0639/thinkcms-auth)  
+* 权限认证 —— [https://github.com/zouxiang0639/thinkcms-auth](https://github.com/zouxiang0639/thinkcms-auth)
+* 适用于thinkphp5.1和6.0的Auth权限扩展 —— [https://github.com/liliuwei/thinkphp-auth](https://github.com/liliuwei/thinkphp-auth) 
 
 ### 数据库
 
@@ -184,6 +185,8 @@ ThinkPHP[开发者周刊](https://www.kancloud.cn/thinkphp/weekly/content)旨在
 * 短地址扩展 —— [https://github.com/hbh112233abc/short-url](https://github.com/hbh112233abc/short-url)
 * 中文转拼音扩展 —— [https://github.com/xiaodit/think-pinyin](https://github.com/xiaodit/think-pinyin)
 * 网站链接提交扩展 —— [https://github.com/xiaodit/think-site-pusher](https://github.com/xiaodit/think-site-pusher)
+* 适用于thinkphp6.0的跳转扩展 —— [https://github.com/liliuwei/thinkphp-jump](https://github.com/liliuwei/thinkphp-jump)
+* 网站地图 Sitemap扩展 —— [https://github.com/liliuwei/php-sitemap](https://github.com/liliuwei/php-sitemap)
 
 
 ## 产品/服务/网站（陆续整理）
