@@ -188,6 +188,7 @@ ThinkPHP[开发者周刊](https://www.kancloud.cn/thinkphp/weekly/content)旨在
 * 适用于thinkphp6.0的跳转扩展 —— [https://github.com/liliuwei/thinkphp-jump](https://github.com/liliuwei/thinkphp-jump)
 * 网站地图 Sitemap扩展 —— [https://github.com/liliuwei/php-sitemap](https://github.com/liliuwei/php-sitemap)
 * 分词/抽词扩展 —— [https://github.com/xiaodit/think-pullword](https://github.com/xiaodit/think-pullword)
+* 异常接管扩展（Whoops） —— [https://github.com/xiaodit/think-whoops](https://github.com/xiaodit/think-whoops)
 
 ## 产品/服务/网站（陆续整理）
 
