@@ -80,13 +80,6 @@ ThinkPHP[开发者周刊](https://www.kancloud.cn/thinkphp/weekly/content)旨在
 
 ![](https://box.kancloud.cn/683ccf2d45b7682caa7f6ff65e2908ea)
 
-## API速查表
-
-速查表由官方团队成员维护，可能不一定及时同步更新，源码是最好的API手册。
-
-* 5.0速查表：https://yangweijie.github.io/thinkphp-lts/index.html
-* 5.1速查表：https://yangweijie.github.io/thinkphp-lts/index_tp5_1.html
-
 ## 官方教程
 
 手册只是作为使用参考性质，不具备新手引导和教学作用。因此除了完全开发手册之外，官方还出品了一系列官方快速入门教程，作为完全开发手册的补充，这些都是对新手或者希望深入了解和学习框架细节的不可或缺，同时也是一种抛砖引玉，希望更多的第三方优秀教程涌现出来。
@@ -98,10 +91,18 @@ ThinkPHP[开发者周刊](https://www.kancloud.cn/thinkphp/weekly/content)旨在
 * 《[ThinkPHP5.0控制器从入门到精通](https://www.kancloud.cn/thinkphp/controller-in-detail)》
 * 《[掌握ThinkPHP5.0数据库和模型](https://www.kancloud.cn/thinkphp/master-database-and-model)》
 * 《[笨办法学ThinkPHP5.1](https://www.kancloud.cn/thinkphp/thinkphp-the-hard-way)》
+* 《[ThinkPHP6入门必读](https://www.kancloud.cn/thinkphp/thinkphp6-quickstart)》
 
-这些入门系列教程，虽然是为ThinkPHP5而写，但很多思想和用法，在后续版本中仍然适用，能够帮你更快速的入门和掌握ThinkPHP的精髓。
+这些入门系列教程，有些虽然是为ThinkPHP5而写，但很多思想和用法，在后续版本中仍然适用，能够帮你更快速的入门和掌握ThinkPHP的精髓。
 
 > 官方所有教程书籍都仅限[看云电子出版平台（官方旗下产品）](https://www.kancloud.cn)发布，其它任何平台均为盗版和假冒。
+
+## API速查表
+
+速查表由官方团队成员维护，可能不一定及时同步更新，源码是最好的API手册。
+
+* 5.0速查表：https://yangweijie.github.io/thinkphp-lts/index.html
+* 5.1速查表：https://yangweijie.github.io/thinkphp-lts/index_tp5_1.html
 
 
 ## 第三方教程（包含视频）
