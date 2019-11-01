@@ -189,9 +189,10 @@ ThinkPHP[开发者周刊](https://www.kancloud.cn/thinkphp/weekly/content)旨在
 * 网站地图 Sitemap扩展 —— [https://github.com/liliuwei/php-sitemap](https://github.com/liliuwei/php-sitemap)
 * 分词/抽词扩展 —— [https://github.com/xiaodit/think-pullword](https://github.com/xiaodit/think-pullword)
 * 异常接管扩展（Whoops） —— [https://github.com/xiaodit/think-whoops](https://github.com/xiaodit/think-whoops)
+* 获取HTML字符串中的图片地址 —— <https://github.com/ITwuzhiwei/getImgSrc>
 
 ## 产品/服务/网站（陆续整理）
-
+ 
 * [看云Kancloud](https://www.kancloud.cn) —— 基于Git和MD的文档在线写作和托管平台
 * [Tinywan杂货摊](https://www.tinywan.com) —— 基于ThinkPHP5.1的文档管理平台
 
