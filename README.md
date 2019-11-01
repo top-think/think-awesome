@@ -112,84 +112,84 @@ ThinkPHP[开发者周刊](https://www.kancloud.cn/thinkphp/weekly/content)旨在
 
 |名称|地址|
 |---|---|
-| 应用单元测试|[https://github.com/top-think/think-testing](https://github.com/top-think/think-testing)  |
-| 验证码|[https://github.com/top-think/think-captcha](https://github.com/top-think/think-captcha) | 
-| 消息队列|[https://github.com/top-think/think-queue](https://github.com/top-think/think-queue)  |
-| 计划任务|[https://github.com/yunwuxin/think-cron](https://github.com/yunwuxin/think-cron)  |
-| 页面Trace|[https://github.com/top-think/think-trace](https://github.com/top-think/think-trace)  |
-| DebugBar|[https://github.com/top-think/think-debugbar](https://github.com/top-think/think-debugbar)  |
-| MongoDb扩展|[https://github.com/top-think/think-mongo](https://github.com/top-think/think-mongo)  |
-| angular模板引擎扩展|[https://github.com/top-think/think-angular](https://github.com/top-think/think-angular)  |
-| thinkphp模板引擎扩展|[https://github.com/top-think/think-template](https://github.com/top-think/think-template)  |
-| Twig模板引擎扩展|[https://github.com/yunwuxin/think-twig](https://github.com/yunwuxin/think-twig)  |
-| Blade模板引擎扩展|[https://github.com/terranc/think-blade](https://github.com/terranc/think-blade)  |
-| 助手库|[https://github.com/top-think/think-helper](https://github.com/top-think/think-helper)  |
-| 数据库迁移工具|[https://github.com/top-think/think-migration](https://github.com/top-think/think-migration) | 
-| ORM类库|[https://github.com/top-think/think-orm](https://github.com/top-think/think-orm)  |
-| Oracle驱动|[https://github.com/top-think/think-oracle](https://github.com/top-think/think-oracle)  |
-| Swoole扩展|[https://github.com/top-think/think-swoole](https://github.com/top-think/think-swoole)  |
-| Workerman扩展|[https://github.com/top-think/think-worker](https://github.com/top-think/think-worker)  |
-| SeasLog日志扩展|[https://github.com/top-think/think-seaslog](https://github.com/top-think/think-seaslog)  |
-| 图像处理类|[https://github.com/top-think/think-image](https://github.com/top-think/think-image)  |
-| 图片动态裁剪缩放库|[https://github.com/top-think/think-glide](https://github.com/top-think/think-glide)  |
-| 缓存管理|[https://github.com/top-think/think-cache](https://github.com/top-think/think-cache)  |
-| Validate验证|[https://github.com/top-think/think-validate](https://github.com/top-think/think-validate) | 
-| Log扩展|[https://github.com/top-think/think-log](https://github.com/top-think/think-log)  |
-| TagLib编辑器|[https://github.com/top-think/think-editor](https://github.com/top-think/think-editor)  |
-| Container & Facade|[https://github.com/top-think/think-container](https://github.com/top-think/think-container)  |
-| 邮件发送扩展|[https://github.com/yunwuxin/think-mail](https://github.com/yunwuxin/think-mail)  |
-| 消息通知扩展|[https://github.com/yunwuxin/think-notification](https://github.com/yunwuxin/think-notification)  |
-| 自动生成模型注释|[https://github.com/yunwuxin/think-model-helper](https://github.com/yunwuxin/think-model-helper)  |
-| 社会化登录组件|[https://github.com/yunwuxin/think-social](https://github.com/yunwuxin/think-social)  |
-| ThinkPHP6注解扩展|[https://github.com/top-think/think-annotation](https://github.com/top-think/think-annotation)  |
-| 访问频率限制|[https://github.com/top-think/think-throttle](https://github.com/top-think/think-throttle)|
+| 应用单元测试|<https://github.com/top-think/think-testing>  |
+| 验证码|<https://github.com/top-think/think-captcha> | 
+| 消息队列|<https://github.com/top-think/think-queue>  |
+| 计划任务|<https://github.com/yunwuxin/think-cron>  |
+| 页面Trace|<https://github.com/top-think/think-trace>  |
+| DebugBar|<https://github.com/top-think/think-debugbar>  |
+| MongoDb扩展|<https://github.com/top-think/think-mongo>  |
+| angular模板引擎扩展|<https://github.com/top-think/think-angular>  |
+| thinkphp模板引擎扩展|<https://github.com/top-think/think-template>  |
+| Twig模板引擎扩展|<https://github.com/yunwuxin/think-twig>  |
+| Blade模板引擎扩展|<https://github.com/terranc/think-blade>  |
+| 助手库|<https://github.com/top-think/think-helper>  |
+| 数据库迁移工具|<https://github.com/top-think/think-migration> | 
+| ORM类库|<https://github.com/top-think/think-orm>  |
+| Oracle驱动|<https://github.com/top-think/think-oracle>  |
+| Swoole扩展|<https://github.com/top-think/think-swoole>  |
+| Workerman扩展|<https://github.com/top-think/think-worker>  |
+| SeasLog日志扩展|<https://github.com/top-think/think-seaslog>  |
+| 图像处理类|<https://github.com/top-think/think-image>  |
+| 图片动态裁剪缩放库|<https://github.com/top-think/think-glide>  |
+| 缓存管理|<https://github.com/top-think/think-cache>  |
+| Validate验证|<https://github.com/top-think/think-validate> | 
+| Log扩展|<https://github.com/top-think/think-log>  |
+| TagLib编辑器|<https://github.com/top-think/think-editor>  |
+| Container & Facade|<https://github.com/top-think/think-container>  |
+| 邮件发送扩展|<https://github.com/yunwuxin/think-mail>  |
+| 消息通知扩展|<https://github.com/yunwuxin/think-notification>  |
+| 自动生成模型注释|<https://github.com/yunwuxin/think-model-helper>  |
+| 社会化登录组件|<https://github.com/yunwuxin/think-social>  |
+| ThinkPHP6注解扩展|<https://github.com/top-think/think-annotation>  |
+| 访问频率限制|<https://github.com/top-think/think-throttle>|
 
 ## 第三方扩展（陆续整理）
 
 ### 权限控制
 
-* PHP-Casbin —— [https://github.com/php-casbin/php-casbin](https://github.com/php-casbin/php-casbin)
-* Think-authz —— [https://github.com/php-casbin/think-authz](https://github.com/php-casbin/think-authz)
-* 访问控制库(Casbin)扩展 —— [https://github.com/php-casbin/think-casbin](https://github.com/php-casbin/think-casbin)  
-* 权限认证 —— [https://github.com/zouxiang0639/thinkcms-auth](https://github.com/zouxiang0639/thinkcms-auth)
-* 适用于thinkphp5.1和6.0的Auth权限扩展 —— [https://github.com/liliuwei/thinkphp-auth](https://github.com/liliuwei/thinkphp-auth) 
+* PHP-Casbin —— <https://github.com/php-casbin/php-casbin>
+* Think-authz —— <https://github.com/php-casbin/think-authz>
+* 访问控制库(Casbin)扩展 —— <https://github.com/php-casbin/think-casbin>  
+* 权限认证 —— <https://github.com/zouxiang0639/thinkcms-auth>
+* 适用于thinkphp5.1和6.0的Auth权限扩展 —— <https://github.com/liliuwei/thinkphp-auth> 
 
 ### 数据库
 
-* migration-generator —— [https://github.com/yanwenwu/migration-generator](https://github.com/yanwenwu/migration-generator)
-* SQL语句优化扩展 —— [https://github.com/guanguans/think-soar](https://github.com/guanguans/think-soar)
-* 适用于6.0的分页驱动库 —— [https://github.com/big-dream/think-paginator-driver](https://github.com/big-dream/think-paginator-driver)
+* migration-generator —— <https://github.com/yanwenwu/migration-generator>
+* SQL语句优化扩展 —— <https://github.com/guanguans/think-soar>
+* 适用于6.0的分页驱动库 —— <https://github.com/big-dream/think-paginator-driver>
 
 ### 算法
 
-* 用PHP负载均衡调度算法 —— [https://github.com/Tinywan/load-balancing](https://github.com/Tinywan/load-balancing)
+* 用PHP负载均衡调度算法 —— <https://github.com/Tinywan/load-balancing>
 
 ### 支付
 
-* 支付宝php-SDK —— [https://github.com/wi1dcard/alipay-sdk-php](https://github.com/wi1dcard/alipay-sdk-php)  
+* 支付宝php-SDK —— <https://github.com/wi1dcard/alipay-sdk-php>  
 
 ### 短信
 
-* 阿里云短信发送扩展 —— [https://github.com/hbh112233abc/ali-sms](https://github.com/hbh112233abc/ali-sms)
+* 阿里云短信发送扩展 —— <https://github.com/hbh112233abc/ali-sms>
 
 ### 微信
 
-* 微信php-SDK —— [https://github.com/overtrue/wechat](https://github.com/overtrue/wechat)  
+* 微信php-SDK —— <https://github.com/overtrue/wechat>  
 
 ### 其它
 
-* 二维码生成类库 —— [https://github.com/endroid/qr-code](https://github.com/endroid/qr-code)  
-* xml类库 —— [https://github.com/servo-php/fluidxml](https://github.com/servo-php/fluidxm%3Cx%3El)  
-* 省市区(县)街道四级联动扩展 —— [https://github.com/yupoxiong/region](https://github.com/yupoxiong/region)  
-* 代码生成器 —— [https://github.com/zhuanqianfish/ThinkphpHelper](https://github.com/zhuanqianfish/ThinkphpHelper)
-* 钉钉机器人扩展 —— [https://github.com/hbh112233abc/ding-bot](https://github.com/hbh112233abc/ding-bot)
-* 短地址扩展 —— [https://github.com/hbh112233abc/short-url](https://github.com/hbh112233abc/short-url)
-* 中文转拼音扩展 —— [https://github.com/xiaodit/think-pinyin](https://github.com/xiaodit/think-pinyin)
-* 网站链接提交扩展 —— [https://github.com/xiaodit/think-site-pusher](https://github.com/xiaodit/think-site-pusher)
-* 适用于thinkphp6.0的跳转扩展 —— [https://github.com/liliuwei/thinkphp-jump](https://github.com/liliuwei/thinkphp-jump)
-* 网站地图 Sitemap扩展 —— [https://github.com/liliuwei/php-sitemap](https://github.com/liliuwei/php-sitemap)
-* 分词/抽词扩展 —— [https://github.com/xiaodit/think-pullword](https://github.com/xiaodit/think-pullword)
-* 异常接管扩展（Whoops） —— [https://github.com/xiaodit/think-whoops](https://github.com/xiaodit/think-whoops)
+* 二维码生成类库 —— <https://github.com/endroid/qr-code> 
+* xml类库 —— <https://github.com/servo-php/fluidxml>  
+* 省市区(县)街道四级联动扩展 —— <https://github.com/yupoxiong/region> 
+* 代码生成器 —— <https://github.com/zhuanqianfish/ThinkphpHelper>
+* 钉钉机器人扩展 —— <https://github.com/hbh112233abc/ding-bot>
+* 短地址扩展 —— <https://github.com/hbh112233abc/short-url>
+* 中文转拼音扩展 —— <https://github.com/xiaodit/think-pinyin>
+* 网站链接提交扩展 —— <https://github.com/xiaodit/think-site-pusher>
+* 适用于thinkphp6.0的跳转扩展 —— <https://github.com/liliuwei/thinkphp-jump>
+* 网站地图 Sitemap扩展 —— <https://github.com/liliuwei/php-sitemap>
+* 分词/抽词扩展 —— <https://github.com/xiaodit/think-pullword>
+* 异常接管扩展（Whoops） —— <https://github.com/xiaodit/think-whoops>
 * 获取HTML字符串中的图片地址 —— <https://github.com/ITwuzhiwei/getImgSrc>
 
 ## 产品/服务/网站（陆续整理）
