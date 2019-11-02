@@ -144,6 +144,7 @@ ThinkPHP[开发者周刊](https://www.kancloud.cn/thinkphp/weekly/content)旨在
 | 社会化登录组件|<https://github.com/yunwuxin/think-social>  |
 | ThinkPHP6注解扩展|<https://github.com/top-think/think-annotation>  |
 | 访问频率限制|<https://github.com/top-think/think-throttle>|
+| PSR-16 to PSR-6 Bridge|<https://github.com/top-think/cache-bridge>|
 
 ## 第三方扩展（陆续整理）
 
