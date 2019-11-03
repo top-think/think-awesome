@@ -194,9 +194,59 @@ ThinkPHP[开发者周刊](https://www.kancloud.cn/thinkphp/weekly/content)旨在
 * 异常接管扩展（Whoops） —— <https://github.com/xiaodit/think-whoops>
 * 获取HTML字符串中的图片地址 —— <https://github.com/ITwuzhiwei/getImgSrc>
 
-## 产品/服务/网站（陆续整理）
+## 产品/服务（陆续整理）
  
+* [FastAdmin](https://www.fastadmin.net) —— 基于ThinkPHP5和Bootstrap的极速后台开发框架
+* [ThinkCMF5](https://www.thinkcmf.com/) —— 基于ThinkPHP5和bootstrap3开发的内容管理框架 
+* [VueThink](http://www.vuethink.com/) —— 基于Vue全家桶+ Thinkphp5 的前后端分离框架
+* [OneBase](https://www.onebase.org/) —— 基于ThinkPHP5的面向对象的应用研发架构
+* [ApiAdmin](http://www.apiadmin.org/) —— 面向API的后台管理系统，前后端完全分离
+* [RhaPHP](https://www.rhaphp.com/) —— 基于ThinkPHP5.1开发的微信平台管理系统
+* [EacooPHP](https://www.eacoophp.com/) —— 基于ThinkPHP5开发的一套轻量级WEB产品开发框架
+* [VaeThink](https://www.vaethink.com/) —— 基于 Thinkphp 和 Layui 的轻量级php内容管理框架
+* [OpenCenter](http://www.ocenter.cn/) —— 开源的用户及后台管理系统
+* [HisiPHP](http://hisiphp.com/) —— 基于ThinkPHP +Layui 开发的一套开源后台管理框架
+* [WeiPHP](http://www.weiphp.cn/) —— 基于ThinkPHP5.1开发的一个开源，高效，简洁的移动应用系统
+* [DolphinPHP](https://www.dolphinphp.com/) —— 基于ThinkPHP5开发的一套开源PHP快速开发框架
+* [vue-admin](https://github.com/lmxdawn/vue-admin-php) —— 基于ThinkPHP和Vue的后台管理系统
+* [BearAdmin](https://bearadmin.yufuping.com/) —— 基于ThinkPHP5+AdminLTE的后台管理系统
+* [Tpflow](https://gitee.com/ntdgg/tpflow) —— 基于ThinkPHP实现的工作流插件
+* [ThinkAdmin](https://github.com/zoujingli/ThinkAdmin) —— 基于Thinkphp5.1开发的后台管理系统
+* [Tp-admin](https://github.com/Astonep/tp-admin) —— 基于ThinkPHP5拿来即用高性能后台管理系统
+* [Tadmin](http://tadmin.tech1024.com/) —— 基于ThinkPHP5.1+和AmazeUI的快速后台开发框架
+* [YZNCMS](https://gitee.com/ken678/YZNCMS) —— 基于TP5.1框架的CMS内容管理系统
+* [snake](https://github.com/nick-bai/snake) —— thinkphp5做的通用系统后台
+* [CRMEB](https://gitee.com/ZhongBangKeJi/CRMEB) —— 基于ThinkPhp5.0+Vue+EasyWeChat 开发的一套CRMEB新零售商城系统
+* [TPlay](http://tplay.pengyichen.cn/) —— 基于ThinkPHP5.0.23 + layui2.2.45 + Mysql开发的后台管理框架
+* [ThinkLibrary](https://gitee.com/zoujingli/ThinkLibrary) —— 针对 ThinkPHP5.1 版本封装的一套工具类库
+* [noneCms](http://www.5none.com/) —— 基于ThinkPHP5.1开发的开源的简单小巧的内容管理系统
+* [yfcmf](http://www.yfcmf.net/) —— ThinkPHP5.1+国外ACE1.40的UI模板的后台内容管理框架
+* [YoShop](https://gitee.com/xany/bestshop-php) —— 基于ThinkPHP5的开源电商系统
+* [TPR](https://github.com/AxiosCros/tpr-composer) —— 基于thinkphp5的restful接口框架
+* [tpr-cms](https://github.com/AxiosCros/tpr-cms) —— 基于TPR的后台管理系统
+* [ShopXO](http://shopxo.net/) —— 基于ThinkPHP5.1和AmazeUI开发的B2C免费开源电商系统
+* [悟空CRM](http://www.5kcrm.com/) —— 基于ThinkPHP5+Vue开发的客户关系管理系统
+* [PSI](https://gitee.com/crm8000/PSI/) —— 基于ThinkPHP的SaaS模式的企业管理软件
 * [看云Kancloud](https://www.kancloud.cn) —— 基于Git和MD的文档在线写作和托管平台
+* [OpenHIS](https://gitee.com/mali218/OpenHIS) —— 医疗门诊系统
+* [LeaCMF](https://github.com/lea21st/LeaCMF) —— 基于ThinkPHP5.1+layui的极速后台和api开发框架
+* [TPFrame](https://www.tpframe.com/) —— 为快速开发api接口、wap站、微信站、小程序、pc站而生的框架
+* [TpAndVue](https://gitee.com/kingeasts/tp5_vue_authbuild) —— ThinkPHP 5.1 + Vue 自动化构建解决方案
+* [RESTFul API](https://gitee.com/china_wangyu/TP5.1-Restful-Api) —— 构建的API项目架构
+* [Cmpay](https://gitee.com/iredcap/cmpay) —— 基于ThinkPHP的聚合支付系统使
+* [OneGame](https://gitee.com/Bigotry/OneGame) —— 开源免费游戏联运系统
+* [InitAdmin](http://initadmin.net/) —— 渐进式模块化开源后台
+* [CLTPHP](https://gitee.com/chichu/cltphp) —— 基于ThinkPHP的内容管理系统
+* [lin-cms-tp5](https://github.com/ChenJinchuang/lin-cms-tp5) —— 前后端分离的 CMS 解决方案
+* [齐博CMS之X1](https://gitee.com/qibosoft/x1_of_cms) —— 基于thinkphp5开发的内容管理系统
+* [LotusAdmin](https://www.lotusadmin.top/) —— 基于thinkphp5.1、layui的快速后台开发框架
+* [RXThinkCMF](http://www.rxthink.cn/) —— 基于 ThinkPHP5.1.x +Layui2.4.5 开发的权限及内容管理框架
+* [TRR](https://github.com/china-wangyu/TRR) —— TP反射注释路由架构
+* [tp5layui](https://gitee.com/yq5858588/tp5layui) —— 基于tp5.1.38和layui2.5.4开发的基础权限管理系统
+* [Static7](https://github.com/static7/past) —— 基于ThinkPHP6的基础管理系统
+* [TPShop](http://www.tp-shop.cn/) —— 基于ThinkPHP的开源商城
+* [DSMall](http://www.csdeshang.com/) —— 开源多用户商城系统
+* [WSTMart](https://www.wstmart.net/) —— 开源多用户商城系统
 * [Tinywan杂货摊](https://www.tinywan.com) —— 基于ThinkPHP5.1的文档管理平台
 
 ## ThinkPHP安全守护者计划
