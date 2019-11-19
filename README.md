@@ -177,7 +177,11 @@ ThinkPHP[开发者周刊](https://www.kancloud.cn/thinkphp/weekly/content)旨在
 
 ### 微信
 
-* 微信php-SDK —— <https://github.com/overtrue/wechat>  
+* 微信php-SDK —— <https://github.com/overtrue/wechat>
+
+### 注解
+
+* ThinkPHP6官方注解增强版 —— <https://github.com/LazySkills/think-annotation>
 
 ### 其它
 
