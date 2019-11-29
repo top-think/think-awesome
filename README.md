@@ -179,12 +179,9 @@ ThinkPHP[开发者周刊](https://www.kancloud.cn/thinkphp/weekly/content)旨在
 
 * 微信php-SDK —— <https://github.com/overtrue/wechat>
 
-### 注解
-
-* ThinkPHP6官方注解增强版 —— <https://github.com/LazySkills/think-annotation>
-
 ### 其它
 
+* ThinkPHP6官方注解增强版 —— <https://github.com/LazySkills/think-annotation>
 * 二维码生成类库 —— <https://github.com/endroid/qr-code> 
 * xml类库 —— <https://github.com/servo-php/fluidxml>  
 * 省市区(县)街道四级联动扩展 —— <https://github.com/yupoxiong/region> 
@@ -200,6 +197,7 @@ ThinkPHP[开发者周刊](https://www.kancloud.cn/thinkphp/weekly/content)旨在
 * 获取HTML字符串中的图片地址 —— <https://github.com/ITwuzhiwei/getImgSrc>
 * 优美的php邮件类tp-mailer —— <https://github.com/yzh52521/think-mail>
 * 短信验证码、验证 —— <https://github.com/LunziSTU/tp-sms>
+* 第三方filesystem扩展包（支持阿里云、七牛云） —— <https://gitee.com/thans/thinkphp-filesystem-cloud>
 
 ## 产品/服务（陆续整理）
  
