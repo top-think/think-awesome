@@ -21,7 +21,7 @@ ThinkPHP`5.0+`版本全部使用`Git`进行代码版本管理，`5.1+`版本开�
 
 ### `Gitee`
 
-* 应用仓库：https://gitee.com/liu21st/thinkphp5
+* 应用仓库：https://gitee.com/liu21st/thinkphp
 * 核心框架：https://gitee.com/liu21st/framework
 
 ## BUG反馈和建议
