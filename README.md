@@ -155,6 +155,7 @@ ThinkPHP[开发者周刊](https://www.kancloud.cn/thinkphp/weekly/content)旨在
 * 访问控制库(Casbin)扩展 —— <https://github.com/php-casbin/think-casbin>  
 * 权限认证 —— <https://github.com/zouxiang0639/thinkcms-auth>
 * 适用于thinkphp5.1和6.0的Auth权限扩展 —— <https://github.com/liliuwei/thinkphp-auth> 
+* jwt身份验证扩展包（支持tp5.1和6.0）—— <https://gitee.com/thans/jwt-auth>
 
 ### 数据库
 
