@@ -199,6 +199,7 @@ ThinkPHP[开发者周刊](https://www.kancloud.cn/thinkphp/weekly/content)旨在
 * 优美的php邮件类tp-mailer —— <https://github.com/yzh52521/think-mail>
 * 短信验证码、验证 —— <https://github.com/LunziSTU/tp-sms>
 * 第三方filesystem扩展包（支持阿里云、七牛云） —— <https://gitee.com/thans/thinkphp-filesystem-cloud>
+* 模板（魔法）扩展 —— <https://github.com/xiaodit/think-template-magic>
 
 ## 产品/服务（陆续整理）
  
