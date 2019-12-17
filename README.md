@@ -201,6 +201,7 @@ ThinkPHP[开发者周刊](https://www.kancloud.cn/thinkphp/weekly/content)旨在
 * 第三方filesystem扩展包（支持阿里云、七牛云） —— <https://gitee.com/thans/thinkphp-filesystem-cloud>
 * 模板（魔法）扩展 —— <https://github.com/xiaodit/think-template-magic>
 * 社会化登录扩展 —— <https://github.com/liliuwei/thinkphp-social>
+* think-addons —— <https://github.com/zz-studio/think-addons>
 
 ## 产品/服务（陆续整理）
  
