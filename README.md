@@ -163,6 +163,11 @@ ThinkPHP[开发者周刊](https://www.kancloud.cn/thinkphp/weekly/content)旨在
 * SQL语句优化扩展 —— <https://github.com/guanguans/think-soar>
 * 适用于6.0的分页驱动库 —— <https://github.com/big-dream/think-paginator-driver>
 * 数据库迁移工具`think-phinx`  —— <https://github.com/itxq/think-phinx>
+* 数据库迁移工具`think-phinx` by nhzex  —— <https://github.com/nhzex/think-phinx>
+
+### 模板引擎
+
+* `Blade`模板引擎扩展 —— <https://github.com/nhzex/think-blade>
 
 ### 算法
 
