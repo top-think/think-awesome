@@ -263,6 +263,8 @@ ThinkPHP[开发者周刊](https://www.kancloud.cn/thinkphp/weekly/content)旨在
 * [WSTMart](https://www.wstmart.net/) —— 开源多用户商城系统
 * [Tinywan杂货摊](https://www.tinywan.com) —— 基于ThinkPHP5.1的文档管理平台
 * [TAnt](https://github.com/xiaodit/think-admin) —— 基于ThinkPHP6.0 + Ant-Design-Pro-Vue企业级中后台前后分离系统
+* [CatchAdmin](https://gitee.com/jaguarjack/catchAdmin) —— 基于 thinkphp6.0 的后台管理系统，解耦模块化
+
 ## ThinkPHP安全守护者计划
 
 为了应对今后的安全问题，ThinkPHP联合360安全团队和腾讯安全团队的成员成立了ThinkPHP安全守护者计划，成员共6名，分别来自360安全团队、腾讯安全团队以及ThinkPHP官方成员，共同致力于守护ThinkPHP核心框架的安全。
