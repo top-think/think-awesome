@@ -251,8 +251,8 @@ ThinkPHP[开发者周刊](https://www.kancloud.cn/thinkphp/weekly/content)旨在
 * [OneGame](https://gitee.com/Bigotry/OneGame) —— 开源免费游戏联运系统
 * [InitAdmin](http://initadmin.net/) —— 渐进式模块化开源后台
 * [CLTPHP](https://gitee.com/chichu/cltphp) —— 基于ThinkPHP的内容管理系统
-* [lin-cms-tp5](https://github.com/ChenJinchuang/lin-cms-tp5) —— 前后端分离的 CMS 解决方案
-* [lin-cms-tp6](https://github.com/LazySkills/lin-cms-tp6) —— 前后端分离的 CMS 解决方案
+* [lin-cms-tp5](https://github.com/ChenJinchuang/lin-cms-tp5) —— 基于 ThinkPHP 5.1  前后端分离的 CMS 解决方案
+* [lin-cms-tp6](https://github.com/LazySkills/lin-cms-tp6) —— 基于 ThinkPHP 6.0 的前后端分离的 CMS 解决方案
 * [齐博CMS之X1](https://gitee.com/qibosoft/x1_of_cms) —— 基于thinkphp5开发的内容管理系统
 * [LotusAdmin](https://www.lotusadmin.top/) —— 基于thinkphp5.1、layui的快速后台开发框架
 * [RXThinkCMF](http://www.rxthink.cn/) —— 基于 ThinkPHP5.1.x +Layui2.4.5 开发的权限及内容管理框架
