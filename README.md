@@ -252,6 +252,7 @@ ThinkPHP[开发者周刊](https://www.kancloud.cn/thinkphp/weekly/content)旨在
 * [InitAdmin](http://initadmin.net/) —— 渐进式模块化开源后台
 * [CLTPHP](https://gitee.com/chichu/cltphp) —— 基于ThinkPHP的内容管理系统
 * [lin-cms-tp5](https://github.com/ChenJinchuang/lin-cms-tp5) —— 前后端分离的 CMS 解决方案
+* [lin-cms-tp6](https://github.com/LazySkills/lin-cms-tp6) —— 前后端分离的 CMS 解决方案
 * [齐博CMS之X1](https://gitee.com/qibosoft/x1_of_cms) —— 基于thinkphp5开发的内容管理系统
 * [LotusAdmin](https://www.lotusadmin.top/) —— 基于thinkphp5.1、layui的快速后台开发框架
 * [RXThinkCMF](http://www.rxthink.cn/) —— 基于 ThinkPHP5.1.x +Layui2.4.5 开发的权限及内容管理框架
@@ -264,6 +265,8 @@ ThinkPHP[开发者周刊](https://www.kancloud.cn/thinkphp/weekly/content)旨在
 * [Tinywan杂货摊](https://www.tinywan.com) —— 基于ThinkPHP5.1的文档管理平台
 * [TAnt](https://github.com/xiaodit/think-admin) —— 基于ThinkPHP6.0 + Ant-Design-Pro-Vue企业级中后台前后分离系统
 * [CatchAdmin](https://gitee.com/jaguarjack/catchAdmin) —— 基于 thinkphp6.0 的后台管理系统，解耦模块化
+* [PAA-ThinkPHP6](https://github.com/LazySkills/PAA-ThinkPHP6) —— 基于 ThinkPHP 6.0 注释路由架构（含接口管理系统）
+
 
 ## ThinkPHP安全守护者计划
 
