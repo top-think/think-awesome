@@ -266,7 +266,7 @@ ThinkPHP[开发者周刊](https://www.kancloud.cn/thinkphp/weekly/content)旨在
 * [TAnt](https://github.com/xiaodit/think-admin) —— 基于ThinkPHP6.0 + Ant-Design-Pro-Vue企业级中后台前后分离系统
 * [CatchAdmin](https://gitee.com/jaguarjack/catchAdmin) —— 基于 thinkphp6.0 的后台管理系统，解耦模块化
 * [PAA-ThinkPHP6](https://github.com/LazySkills/PAA-ThinkPHP6) —— 基于 ThinkPHP 6.0 注释路由架构（含接口管理系统）
-
+* [tpextmyadmin](https://gitee.com/ichynul/myadmin) —— 基于tp5.1快速开发框架，可扩展开发，后台支持UI生成，Form/Table等。
 
 ## ThinkPHP安全守护者计划
 
