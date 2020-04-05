@@ -207,6 +207,7 @@ ThinkPHP[开发者周刊](https://www.kancloud.cn/thinkphp/weekly/content)旨在
 * 模板（魔法）扩展 —— <https://github.com/xiaodit/think-template-magic>
 * 社会化登录扩展 —— <https://github.com/liliuwei/thinkphp-social>
 * think-addons —— <https://github.com/zz-studio/think-addons>
+* ThinkPHP6百度富文本编辑器ueditor扩展 —— <https://github.com/hbh112233abc/ueditor>
 
 ## 产品/服务（陆续整理）
  
