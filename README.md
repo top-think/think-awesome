@@ -2,7 +2,7 @@
 
 > 欢迎提交自己的基于ThinkPHP5.0/5.1/6.0版本开发的产品、扩展或者网站！由于版本历史和生态问题，暂不收录5.0之前的版本资源，请提交[`Issue`](https://github.com/top-think/think-awesome/issues)或者PR。
 
-本文总结整理了`ThinkPHP`相关的资源，帮助开发者更好的学习和掌握`ThinkPHP5+`。 [看云在线阅读版本](https://blog.thinkphp.cn/913360)
+本文总结整理了`ThinkPHP`相关的资源，帮助开发者更好的学习和掌握`ThinkPHP5+`。 [在线阅读版本](http://sites.thinkphp.cn)
 
 ## 官网 http://thinkphp.cn
 
@@ -207,6 +207,7 @@ ThinkPHP[开发者周刊](https://www.kancloud.cn/thinkphp/weekly/content)旨在
 * 模板（魔法）扩展 —— <https://github.com/xiaodit/think-template-magic>
 * 社会化登录扩展 —— <https://github.com/liliuwei/thinkphp-social>
 * think-addons —— <https://github.com/zz-studio/think-addons>
+* ThinkPHP6百度富文本编辑器ueditor扩展 —— <https://github.com/hbh112233abc/ueditor>
 
 ## 产品/服务（陆续整理）
  
