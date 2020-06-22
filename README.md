@@ -194,6 +194,7 @@ ThinkPHP[开发者周刊](https://www.kancloud.cn/thinkphp/weekly/content)旨在
 * 异常接管扩展（Whoops） —— <https://github.com/xiaodit/think-whoops>
 * 获取HTML字符串中的图片地址 —— <https://github.com/ITwuzhiwei/getImgSrc>
 * 优美的php邮件类tp-mailer —— <https://github.com/yzh52521/think-mail>
+* thinkphp 任务调度 —— <https://github.com/yzh52521/schedule>
 
 
 ## 产品/服务（陆续整理）
