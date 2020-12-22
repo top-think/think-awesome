@@ -273,13 +273,12 @@ ThinkPHP[开发者周刊](https://www.kancloud.cn/thinkphp/weekly/content)旨在
 
 ## ThinkPHP安全守护者计划
 
-为了应对今后的安全问题，ThinkPHP联合360安全团队和腾讯安全团队的成员成立了ThinkPHP安全守护者计划，成员共6名，分别来自360安全团队、腾讯安全团队以及ThinkPHP官方成员，共同致力于守护ThinkPHP核心框架的安全。
+为了应对今后的安全问题，ThinkPHP联合国内知名安全团队的成员成立了ThinkPHP安全守护者计划，成员共6名，分别来自奇安信安全团队 、360安全团队、腾讯安全团队以及ThinkPHP官方成员，共同致力于守护ThinkPHP核心框架的安全。
 
 目前成员列表：
 
-* [360代码卫士](http://codesafe.cn/)
-* [360补天漏洞平台](https://butian.360.cn)
+* [奇安信代码卫士](https://www.codesafe.cn/)
+* [奇安信补天漏洞平台](https://www.butian.net/)
 * [腾讯安全应急响应中心（TSRC）](https://security.tencent.com)
 * [360 0KEE Team](https://0kee.360.cn)
-* 360云影实验室
-
+* 奇安信云影实验室
