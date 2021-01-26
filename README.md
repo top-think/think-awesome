@@ -270,6 +270,7 @@ ThinkPHP[开发者周刊](https://www.kancloud.cn/thinkphp/weekly/content)旨在
 * [PAA-ThinkPHP6](https://github.com/LazySkills/PAA-ThinkPHP6) —— 基于 ThinkPHP 6.0 注释路由架构（含接口管理系统）
 * [tpextmyadmin](https://gitee.com/ichynul/myadmin) —— 基于tp5.1快速开发框架，可扩展开发，后台支持UI生成，Form/Table等。
 * [Jshop小程序商城](https://gitee.com/hnjihai/jshop_mall) -- 基于 ThinkPHP5.1 + uni-app 开发的开源多端小程序商城系统
+* [SocketLog转发服务](https://github.com/NHZEX/socket-log-server) -- 基于`Workerman`驱动的`SocketLog`转发服务端
 
 ## ThinkPHP安全守护者计划
 
