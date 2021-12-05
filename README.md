@@ -209,6 +209,13 @@ ThinkPHP[开发者周刊](https://www.kancloud.cn/thinkphp/weekly/content)旨在
 * think-addons —— <https://github.com/zz-studio/think-addons>
 * ThinkPHP6百度富文本编辑器ueditor扩展 —— <https://github.com/hbh112233abc/ueditor>
 * thinkphp 任务调度 —— <https://github.com/yzh52521/schedule>
+* ElasticSearch搜索引擎扩展  —— https://github.com/whereof/think-elasticsearch
+* 基于predis的redis操作扩展  —— https://github.com/whereof/think-redis
+* 轻松地从Eloquent模型生成CSV文件  ——  https://github.com/whereof/think-csv
+* 一个记录请求日志的中间件  —— https://github.com/whereof/think-http-logger
+* thinkphp flysystem（阿里云OSS，腾讯COS，七牛云，SFTP，FTP，GitHub）驱动 —— https://github.com/whereof/think-filesystem-driver
+* think-queue增加 RabbitMQ 驱动  —— https://github.com/whereof/think-queue-connector
+
 
 ## 产品/服务（陆续整理）
  
