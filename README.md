@@ -209,6 +209,7 @@ ThinkPHP[开发者周刊](https://www.kancloud.cn/thinkphp/weekly/content)旨在
 * think-addons —— <https://github.com/zz-studio/think-addons>
 * ThinkPHP6百度富文本编辑器ueditor扩展 —— <https://github.com/hbh112233abc/ueditor>
 * thinkphp 任务调度 —— <https://github.com/yzh52521/schedule>
+* ThinkPHP6 单元测试 —— <https://github.com/hbh112233abc/think-test>
 
 ## 产品/服务（陆续整理）
  
